@@ -8,7 +8,7 @@ Crear una aplicacion IOS, que minimamente tenga unos de los siguientes puntos:
   - Firebase Lib
   
  Ustedes pueden crear la aplicacion que deseen, al terminar deben grabar un video del funcionameinto y subir el codigo a GitHub. 
- ### Fecha de presentation ``xx de yy del 2017`` , enviar a mi correo `` jvm.corp@gmail.com `` con el siguiente formato
+ ### Fecha de presentation ``04 de Diciembre del 2017`` , enviar a mi correo `` jvm.corp@gmail.com `` con el siguiente formato
  Subject: [IOS-2017] name_secondName e.g [IOS-2017]jhonny_villarroel_mendieta
  
  Body:
