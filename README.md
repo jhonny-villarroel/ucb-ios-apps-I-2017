@@ -5,6 +5,7 @@ Crear una aplicacion IOS, que minimamente tenga unos de los siguientes puntos:
   - Manejo de Mapas
   - Consumo de Rest Services
   - Persistencia de Datos
+  - Firebase Lib
   
  Ustedes pueden crear la aplicacion que deseen, al terminar deben grabar un video del funcionameinto y subir el codigo a GitHub. 
  ### Fecha de presentation ``xx de yy del 2017`` , enviar a mi correo `` jvm.corp@gmail.com `` con el siguiente formato
